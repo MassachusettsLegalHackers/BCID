@@ -1,4 +1,4 @@
-<h1>Blockchain Identity Legal Hacking Project</h1>
+<h1>Blockchain-Backed Identity Legal Hacking Project</h1>
 
 Massachusetts Legal Hackers GitHub project repository for blockchain-backed individual identity rapid prototype project.
 
