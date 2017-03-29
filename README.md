@@ -1,8 +1,8 @@
 # Blockchain Identity
 
-Massachusetts Legal Hackers project repo...
+Massachusetts Legal Hackers project repository: 
 
-* https://massachusettslegalhackers.github.io/BCID/
+* Web Interface: https://massachusettslegalhackers.github.io/BCID/
 
 
 Notes for First Legal Hack Night Project Meetup:
