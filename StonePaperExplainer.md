@@ -84,6 +84,31 @@ Seller’s Briefcase. And then press  the word Draft.
 The user then returns to their Briefcase and clicks on the contract this will open up a box. The user is able to then digital sign the contract from this box
 
  - - - - - - - - - -
- * This explainer was originally authored and released under creative commons license by Matthew Rappard of Toronto Legal Hackers who has generously made the code for StonePaper available under the MIT open source code license through a Toronto Legal Hackers GitHub repository.
+ * The above explainer was originally authored and released under creative commons license by Matthew Rappard of Toronto Legal Hackers who has generously made the code for StonePaper available under the MIT open source code license through a Toronto Legal Hackers GitHub repository.  It is re-published here with minor corrections and clarifications. 
+ 
+# ## StonePaper Explainer
+
+
+
+## Relevant Links:
+
+* [StonePaper Demo](http://stonepapergaestorage.appspot.com/) (Download [MetaMask](https://metamask.io] and StonePaper should just work)
+
+* [Try it on Contract Hound](http://stonepapergaestorage.appspot.com/GrabClauseHound)
+
+
+* [MetaMask](https://metamask.io)
+* [MetaMask](https://metamask.io/terms.html)
+* [ERC: Token standard · Issue #20 · ethereum/EIPs](https://github.com/ethereum/EIPs/issues/20)
+* [MetaMask](https://metamask.io/privacy.html)
+* [MetaMask](https://metamask.io/attributions.html)
+* [metamask-plugin/LICENSE at master · MetaMask/metamask-plugin](https://github.com/MetaMask/metamask-plugin/blob/master/LICENSE)
+* [Standardized_Contract_APIs · ethereum/wiki Wiki](https://github.com/ethereum/wiki/wiki/Standardized_Contract_APIs#tf-registries)
+* [ethereum/solidity: The Solidity Contract-Oriented Programming Language](https://github.com/ethereum/solidity)
+* [Announcing Kovan — A Stable Ethereum Public Testnet – Medium](https://medium.com/@Digix/announcing-kovan-a-stable-ethereum-public-testnet-10ac7cb6c85f)
+* [Letter from the CEO — Some Context Regarding Kovan – Medium](https://medium.com/@Digix/letter-from-the-ceo-some-context-regarding-kovan-7b5121adb901)
+* [Signatures with Ethereum Keys](https://github.com/MetaMask/eth-sig-util)
+
+
  
 **Creative Commons License:** This work is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
