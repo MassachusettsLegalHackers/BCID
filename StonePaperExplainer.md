@@ -8,12 +8,12 @@ Data Types
 
 A Paper is StonePaper’s name for a document that is created on the blockchain that can never be changed. StonePaper is designed so that all documents included in the system, from ID providers, to contracts, to fingerprints, are held in the Blockchain in a Paper that can never be changed. A Paper doesn’t actually hold the information but it holds a link to the information as well as a “Hash” or “Digital Signature.” This allows a user to store their digital Identity securely either on their person, or online on a website and then user StonePaper to verify it. If the user doesn’t want anyone to know about the information all they have to do is delete all copies of the document and it’s gone… but if the information is to be public they can just load it into any cloud and the information will always be available.
 
-The Structure of a Paper is available below.
+### The Structure of a Paper is available below.
 
 
-**string name; **                        //Document Name
+**string name;**                        //Document Name
 
-**bytes32 sig; **                        //Hash of Document and Signature
+**bytes32 sig;**                        //Hash of Document and Signature
 
 **uint256 database;**                 // Number to identify the URL of the site which hold the data
 
@@ -26,6 +26,7 @@ The Structure of a Paper is available below.
 **uint256[] meta;**                 // All Meta data for document
 
 **address contractLoc;**                 // Contract Location
+
 
 ## Briefcase:
 
