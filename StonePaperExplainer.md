@@ -11,12 +11,19 @@ A Paper is StonePaper’s name for a document that is created on the blockchain 
 The Structure of a Paper is available below.
 
 string name;                         //Document Name
+
 bytes32 sig;                         //Hash of Document and Signature
+
 uint256 database;                 // Number to identify the URL of the site which hold the data
+
 uint time;                         // Time the document was created
+
 address creator;                 // Creator of said document
+
 address lawyer;                 // Lawyer who authorized said document
+
 uint256[] meta;                 // All Meta data for document
+
 address contractLoc;                 // Contract Location
 
 ## Briefcase:
