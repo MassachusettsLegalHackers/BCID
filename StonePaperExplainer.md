@@ -1,4 +1,4 @@
-# StonePape
+# StonePape Explainer
 
 StonePaper will not work without Metamask or a Etherium Node running. If you don’t know what the second one is download Metamask at https://metamask.io
 
